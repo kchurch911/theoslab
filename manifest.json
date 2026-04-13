@@ -1,0 +1,32 @@
+{
+  "name": "TheosLab — 통합 학습 플랫폼",
+  "short_name": "TheosLab",
+  "description": "Symbolic Systems × 성경사역학 자기주도학습 앱 (Paul 목사 · MBTS PhD · GMC Seattle)",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#c9a84c",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "phd-icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "ko"
+}
